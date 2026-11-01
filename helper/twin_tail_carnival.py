@@ -716,7 +716,7 @@ if __name__ == "__main__":
                 ),
             ],
             locations=locations,
-            description="Part of the 名古屋熱田同人祭2018秋 joint venue, which also features 艦隊ぱれーど２, 御城まつり, 月下の祭典Returns, アズールフェスタ, BanG Dreamer's Party! in 名古屋 and 魔法少女本作製計画SP",
+            description="Part of the 名古屋熱田同人祭2018秋 (ツインテールカーニバル9, 制服宣言2, 絶対ニーソ and 百合乙女の楽園) joint venue, which also features 艦隊ぱれーど２, 御城まつり, 月下の祭典Returns, アズールフェスタ, BanG Dreamer's Party! in 名古屋 and 魔法少女本作製計画SP",
             # comments=None,
             last_edited="2026.10.31",
         )
@@ -776,8 +776,8 @@ if __name__ == "__main__":
                 ),
             ],
             locations=locations,
-            description="Simultaneous with Augustic Memories 2 and ゆずソフトパーティー",
-            # comments=None,
+            description="Simultaneous with 制服宣言3, Augustic Memories 2 and ゆずソフトパーティー",
+            comments="As it was cancelled before any circle participation was confirmed, no circles list exists.",
             last_edited="2026.10.31",
         )
 
